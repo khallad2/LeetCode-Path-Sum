@@ -5,6 +5,7 @@ Given the root of a binary tree and an integer targetSum, return true if the tre
 ### Example 1:
 
 ![Screenshot 2022-03-20 at 11 53 23](https://user-images.githubusercontent.com/32259466/159158887-d1d362cf-2652-446c-8109-93fcb33be762.png)
+
 Input: root = [5,4,8,11,null,13,4,7,2,null,null,null,1], targetSum = 22
 Output: true
 Explanation: The root-to-leaf path with the target sum is shown.
@@ -12,6 +13,7 @@ Explanation: The root-to-leaf path with the target sum is shown.
 ### Example 2:
 
 ![Screenshot 2022-03-20 at 11 54 16](https://user-images.githubusercontent.com/32259466/159158916-13624b1c-7d30-4e47-80be-fa0135808859.png)
+
 Input: root = [1,2,3], targetSum = 5
 Output: false
 Explanation: There two root-to-leaf paths in the tree:
